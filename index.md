@@ -26,4 +26,5 @@ My priorities are
 - [x] be smart
 - [ ] be stupid
 - [ ] grind leetcode
+- [x] 
 # END
